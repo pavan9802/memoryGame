@@ -1,3 +1,3 @@
 # memoryGame
 
-A fun memorygame that can played on your free time.
+A fun memory game that can played on your free time.
